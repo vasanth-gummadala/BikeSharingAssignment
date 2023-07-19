@@ -23,9 +23,11 @@
     3. [Model 2](#model-2)
     4. [Model 3](#model-3)
     5. [Model 4](#model-4)
+    6. [Multi Collinearity](#multi-collinearity)
+    7. [Linearity](#linearity)
+    8. [Normality Of Error Terms](#normality-of-error-terms)
+    9. [Homoscedasticity](#homoscedasticity)
+    10. [Independence Of Residuals](#independence-of-residuals)
 8. [Model Evaluation](#model-evaluation)
-    1. [Error Terms Histogram](#error-terms-histogram)
-    2. [R2 Score](#r2-score)
+    1. [R2 Score](#r2-score)
 9. [Final Result](#final-result)
-
-Contributors: @vasanth-gummadala
